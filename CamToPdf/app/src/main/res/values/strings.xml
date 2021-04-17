@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CamToPdf</string>
+    <string name="cameraButton">camera</string>
+</resources>
